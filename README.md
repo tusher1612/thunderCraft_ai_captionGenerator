@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="public/thumbnail.jpg" alt="ThreadCraft AI Logo" />
-</p>
+
 
 # ThreadCraft AI: Social Media Content Generator
 
